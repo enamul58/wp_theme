@@ -1,0 +1,25 @@
+
+.footer-navigation {
+  display: inline;
+}
+
+.footer-navigation > div {
+  display: inline;
+}
+
+.footer-navigation .footer-menu {
+  display: inline;
+  padding-left: 0;
+}
+
+.footer-navigation .footer-menu li {
+  display: inline;
+  margin-right: 5px;
+}
+
+
+.post-thum img{
+	width:100%;
+	height: auto;
+	margin-bottom: 5px; 
+}
